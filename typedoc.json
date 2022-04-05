@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/randomNumber.ts",
+    "./src/randomNumberCollection.ts"
+  ],
+  "out": "./docs"
+}
