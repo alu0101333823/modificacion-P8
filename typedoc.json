@@ -1,7 +1,7 @@
 {
   "entryPoints": [
-    "./src/randomNumber.ts",
-    "./src/randomNumberCollection.ts"
+    "./src/revista.ts",
+    "./src/suscriptor.ts"
   ],
   "out": "./docs"
 }
