@@ -42,8 +42,7 @@ export class Suscriptor implements Observer {
    */
   update(revista: Revista) {
     if (revista instanceof Revista) {
-      console.log(`Se ha publicado una nueva revista de 
-        una de tus suscripciones ${this.name}`);
+      console.log(`Se ha publicado una nueva revista de una de tus suscripciones ${this.name}`);
     }
   }
 }
